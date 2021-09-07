@@ -1,27 +1,27 @@
-# 987654
+# README.md Generator
 
 ## Description
-  98765
+  This is an application that will help create a README.md file much faster and allow for you to spend more time designing your program!
 
 ## Contributing
-  87654
+  If you wish to collaborate send me an email!
 
 ## Installation
-  98765
+  enter "npm i" under terminal of index.js and then run it by using "node index.js"
 
 ## Test
-  9876
+  npm test
 
 ## Usage
-  0987654
+  This application allows for quickly generating README.md files
   
 ## License
 Project contains a license under the MIT license.
 
 ## Collaborators
-  09876543
+  No other collaborators
 
 ## Contact
-  In case of any questions on this application contact me at: 0987654321.
-  Also! If you're interested, you can find a variety of my work on my githuh: [98765432](https://github.com/98765432/).
+  In case of any questions on this application contact me at: kichigin.alex@gmail.com. 
+  Also! If you're interested, you can find a variety of my work on my githuh: [Akish777](https://github.com/Akish777/).
   
